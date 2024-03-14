@@ -14,7 +14,7 @@ This project is a part of the JavaScript30 challenge by Wes Bos, where participa
 
 ## Demo
 
-[View Demo]() <!-- Add a link to your live demo once deployed -->
+[View Demo](https://wondrous-sawine-ce716e.netlify.app/) <!-- Add a link to your live demo once deployed -->
 
 ## Features
 
