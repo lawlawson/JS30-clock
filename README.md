@@ -9,7 +9,6 @@ This project is a part of the JavaScript30 challenge by Wes Bos, where participa
 - [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [How to Use](#how-to-use)
 
 ## Demo
 
@@ -30,7 +29,7 @@ This project is a part of the JavaScript30 challenge by Wes Bos, where participa
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/JS30-clock.git
+git clone https://github.com/lawlawson/JS30-clock.git
 ```
 
 2. Navigate to the project directory:
@@ -40,11 +39,6 @@ cd JS30-clock
 ```
 
 3. Open `index.html` in your preferred browser.
-
-## How to Use
-
-1. Press keys corresponding to the displayed drum pads or click on the pads using the mouse.
-2. Enjoy the various drum sounds!
 
 ## Acknowledgements
 
